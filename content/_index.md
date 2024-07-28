@@ -22,15 +22,16 @@ bookToc: false
 
 <--->
 
-### Misskey隠れ家フォークを採用
+### 隠れ家の機能を利用可能
 
-常夜迷子にはLTLがありません。また、Misskey本家にはないGTLの非表示や、下書き機能など[隠れ家フォークの機能](https://github.com/hideki0403/kakurega.app/blob/dev-kakurega/docs/difference.md)が利用できます。
+常夜迷子はMisskey本家にはないGTLの非表示や下書き機能など、[隠れ家フォークの機能](https://github.com/hideki0403/kakurega.app/blob/dev-kakurega/docs/difference.md)を利用できます。
 
 <--->
 
 ### 他のサーバーと連合可能
 
-他のMisskeyやMastodonといったサーバーと連合で繋がることができます。閉店時間中に届いた投稿は、翌営業日に確認できます。
+常夜迷子は他のMisskeyやMastodonといったサーバーと連合で繋がることができます。
+
 {{< /columns >}}
 
 ## お知らせ
@@ -41,6 +42,10 @@ bookToc: false
   - [障害情報](https://status.misskey.city)サイトを公開しました。
   - データベースの定期バックアップを実施するようになりました。
   - 復電後に自動でサーバーが起動するように修正しました。
+- 2024/7/24
+  - 当サイトをオープンしました。
+- 2024/7/1
+  - Misskeyサーバーの運営を開始しました。
 
 ## 利用規約
 

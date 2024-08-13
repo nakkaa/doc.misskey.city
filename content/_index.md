@@ -6,7 +6,7 @@ type: docs
 
 # 常夜迷子へようこそ
 
-[常夜迷子(とこよまいご)](https://misskey.city)は、[隠れ家フォークの機能](https://github.com/hideki0403/kakurega.app/blob/dev-kakurega/docs/difference.md)を採用した汎用Misskeyサーバーです。  
+常夜迷子(とこよまいご)は、[隠れ家フォーク](https://github.com/hideki0403/kakurega.app/blob/dev-kakurega/docs/difference.md)を採用した汎用Misskeyサーバーです。  
 
 {{< hint warning >}} **常夜迷子は個人運営のサーバーです。**  
 突然サーバーが止まったりデータが消えても泣かないでください。  

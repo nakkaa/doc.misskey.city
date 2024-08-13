@@ -6,32 +6,11 @@ type: docs
 
 # 常夜迷子へようこそ
 
-[常夜迷子(とこよまいご)](https://misskey.city)は、6時から24時までの間だけ使える汎用Misskeyサーバーです。  
+[常夜迷子(とこよまいご)](https://misskey.city)は、[隠れ家フォークの機能](https://github.com/hideki0403/kakurega.app/blob/dev-kakurega/docs/difference.md)を採用した汎用Misskeyサーバーです。  
 
 {{< hint warning >}} **常夜迷子は個人運営のサーバーです。**  
 突然サーバーが止まったりデータが消えても泣かないでください。  
 安定性や長期運営をお求めの方には、他のサーバーをおすすめします。{{< /hint >}}
-
-## 常夜迷子の特徴
-
-{{< columns >}}
-### 隠れ家の機能を利用可能
-
-Misskey本家にはないGTLの非表示や下書き機能など、[隠れ家フォークの機能](https://github.com/hideki0403/kakurega.app/blob/dev-kakurega/docs/difference.md)を利用できます。
-
-<--->
-
-### 低コスト運営
-
-自宅サーバーの余剰リソースを用いて維持費を抑えます。
-
-<--->
-
-### 最低のサービスを無料で
-
-よく言えばゆるく、悪く言えば雑に運営していきます。
-
-{{< /columns >}}
 
 ## お知らせ
 - 2024/8/14

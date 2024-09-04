@@ -7,7 +7,7 @@ type: docs
 # 常夜迷子へようこそ
 
 常夜迷子(とこよまいご)は、[隠れ家フォーク](https://github.com/hideki0403/kakurega.app/blob/dev-kakurega/docs/difference.md)を採用した汎用Misskeyサーバーです。  
-Fediverse辺境にある道しるべ。知る人ぞ知る夜眠る街。  
+Fediverse辺境にある夜眠る街。  
 
 {{< hint info >}} **注意事項**  
 - 突然サーバーが使えなくなったり、データが消えても泣かないでください。

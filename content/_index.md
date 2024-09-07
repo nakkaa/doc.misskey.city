@@ -1,12 +1,12 @@
 ---
-title: みすまちドキュメント
+title: 常夜迷子ドキュメント
 type: docs
 #bookToc: false
 ---
 
 # ようこそ
 
-みすまちは、[隠れ家フォーク](https://github.com/hideki0403/kakurega.app/blob/dev-kakurega/docs/difference.md)を採用した汎用Misskeyサーバーです。   
+常夜迷子は[隠れ家フォーク](https://github.com/hideki0403/kakurega.app/blob/dev-kakurega/docs/difference.md)を採用した汎用Misskeyサーバーです。   
 Fediverse辺境にある夜眠る街。  
 
 {{< hint info >}} **注意事項**  

@@ -9,7 +9,7 @@ type: docs
 - ドライブ容量や各種制限の緩和については応相談です。
 - 1ファイルあたりのアップロード上限は40MBです。
 
-|  | [みすまち](https://misskey.city)|
+|  | https://misskey.city |
 | --- | --- |
 | サービス開始日 | 2024-07-01 |
 | ソフトウェア | [Misskey(kakurega.app)](https://github.com/hideki0403/kakurega.app) |

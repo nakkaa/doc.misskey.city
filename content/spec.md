@@ -1,5 +1,5 @@
 ---
-title: 常夜迷子サーバー仕様
+title: サーバー仕様
 type: docs
 #bookToc: false
 ---
@@ -7,9 +7,9 @@ type: docs
 ## サーバー仕様
 
 - ドライブ容量や各種制限の緩和については応相談です。
-- 1ファイルあたりのアップロード上限は10MBです。
+- 1ファイルあたりのアップロード上限は40MBです。
 
-|  | [常夜迷子](https://misskey.city)|
+|  | [みすまち](https://misskey.city)|
 | --- | --- |
 | サービス開始日 | 2024-07-01 |
 | ソフトウェア | [Misskey(kakurega.app)](https://github.com/hideki0403/kakurega.app) |

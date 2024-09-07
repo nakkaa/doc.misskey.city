@@ -6,8 +6,7 @@ type: docs
 
 # 常夜迷子へようこそ
 
-常夜迷子(とこよまいご)は、[隠れ家フォーク](https://github.com/hideki0403/kakurega.app/blob/dev-kakurega/docs/difference.md)を採用した汎用Misskeyサーバーです。  
-期間限定で、投稿をインポートする機能を追加しています。  
+常夜迷子(とこよまいご)は、[隠れ家フォーク](https://github.com/hideki0403/kakurega.app/blob/dev-kakurega/docs/difference.md)を採用した汎用Misskeyサーバーです。   
 Fediverse辺境にある夜眠る街。  
 
 {{< hint info >}} **注意事項**  
@@ -27,28 +26,6 @@ Fediverse辺境にある夜眠る街。
 ## 公式アカウント
 
 [公式アカウント](https://misskey.city/@admin)では、メンテナンス情報や各種お知らせを発信します。  
-
-## 独自機能 投稿のインポートについて
-
-設定の「インポートとエクスポート」から投稿のインポートが行えます。  
-アップロードできるファイルサイズは40MBです。  
-また、大量のメディアファイルがある場合、ドライブ容量を消費するため、事前に別アカウントを作成しテストすることをおすすめします。
-
-### Mastodon
-
-- zipファイルをインポートします。
-- 公開範囲はMastodonのトゥート時のものが反映されるようです。
-
-### Twitter(投稿のみ)
-
-- zipファイルを展開し、 `/data/tweets.js` を取り出します。
-- 再度zipファイルにしてインポートすることで、ツイートをインポートできます。
-- ツイートは全て公開され、検索可能となります。
-
-### Instagram
-
-- zipファイルを展開し、 `/content/posts_1.json` とmediaフォルダを取り出します。
-- この2つをzipファイルにしてインポートします。
 
 ## 連絡先
 

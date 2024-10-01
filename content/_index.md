@@ -6,7 +6,7 @@ type: docs
 
 # Misskey.cityへようこそ
 
-Misskey.cityはLTLがない、[隠れ家フォーク](https://github.com/hideki0403/kakurega.app/blob/dev-kakurega/docs/difference.md)を採用した汎用Misskeyサーバーです。  
+[Misskey.city](https://misskey.city)はLTLがない汎用Misskeyサーバーです。[隠れ家フォーク](https://github.com/hideki0403/kakurega.app/blob/dev-kakurega/docs/difference.md)を採用しています。  
 
 {{< hint warning >}} **注意事項**  
 - 管理人の実験用サーバーとして運営しています。安定性を求める方は[アナヒビソーシャル](https://anahibi.7ka.org/)をご利用ください。

@@ -1,6 +1,6 @@
 baseurl = "https://doc.misskey.city"
 languageCode = "ja-jp"
-title = "常夜迷子ドキュメント"
+title = "Misskey.city Docs"
 
 theme = 'hugo-book'
 # (Optional) Set Google Analytics if you use it to track your website.
